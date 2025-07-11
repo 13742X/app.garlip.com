@@ -15,6 +15,9 @@ This release adds the functionality to store creative content on the users own G
 -   **Menu Icons:** Created icon to view collateral stored on Google drive.
 -   **Dashboard:** Copyrights stored on the Google drive have a clickable icon next to the datatable record.
 -   **Google Sync:** Sync index in Google drive ensures app has the source of truth.
+-   **Blockchain:**
+    -   Bulk batch blockchain writes where it is a bit slow onchain.
+    -   Blockchain proof json includes copyright meta and file type.
 
 ## [0.1.0] - 2025-07-10 - Initial Release
 
