@@ -7,6 +7,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
+## [0.1.1] - 2025-07-11 - Google Drive Integration
+
+This release adds the functionality to store creative content on the users own Google Drive folder.
+
+### Added
+-   **Menu Icons:** Created icon to view collateral stored on Google drive.
+-   **Dashboard:** Copyrights stored on the Google drive have a clickable icon next to the datatable record.
+-   **Google Sync:** Sync index in Google drive ensures app has the source of truth.
 
 ## [0.1.0] - 2025-07-10 - Initial Release
 
