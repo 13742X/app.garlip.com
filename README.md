@@ -7,6 +7,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
+
+## [0.1.3] - 2025-07-12 - Metered Payments and Accounting
+### Added
+-   **Checkout:** Stripe Integration for metered copyrighting with scaleable credit system and audit trail.
+-   **Credit Gating:** API checks a user's balance and rejects requests if they have insufficient credits, providing the correct 402 Payment Required status.
+-   **Statements:** Account & Billing Dashboard.
+
+## [0.1.2] - 2025-07-12 - Logging
+
+### Added
+-   **Centralised Logging:** Avoided use of Splunk and created own fully automated logging for faster resolution of bugs.
+
 ## [0.1.1] - 2025-07-11 - Google Drive & Blockchain Integration
 
 This release adds the functionality to store creative content on the users own Google Drive folder.
