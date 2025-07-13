@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [0.1.3] - 2025-07-12 - Metered Payments and Accounting
+## [0.1.3] - 2025-07-13 - Metered Payments and Accounting
 ### Added
 -   **Checkout:** Stripe Integration for metered copyrighting with scaleable credit system and audit trail.
 -   **Credit Gating:** API checks a user's balance and rejects requests if they have insufficient credits, providing the correct 402 Payment Required status.
