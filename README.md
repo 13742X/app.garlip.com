@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   **Checkout:** Stripe Integration for metered copyrighting with scaleable credit system and audit trail.
 -   **Credit Gating:** API checks a user's balance and rejects requests if they have insufficient credits, providing the correct 402 Payment Required status.
 -   **Statements:** Account & Billing Dashboard.
+  
+### Fixed
+-   Resolved caching of dashboard after subscriptions paid.
 
 ## [0.1.2] - 2025-07-12 - Logging
 
