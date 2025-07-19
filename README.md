@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.1.4] - 2025-07-19 - API test area
+
+This release allows developers to test the API for sending requests and the various responses communicated from the server.
+
+### Added
+-   **Swagger Like:** API test page. With API key can validate responses for single api calls.
+
 ## [0.1.3] - 2025-07-13 - Metered Payments and Accounting
 ### Added
 -   **Checkout:** Stripe Integration for metered copyrighting with scaleable credit system and audit trail.
