@@ -15,7 +15,9 @@ This release allows users to configure the certificates.
 -   **Public Link:** Certificates can be viewed publically using a short url. Can be used in a QR code.
 -   **Template:**
     -   Up to 10 Certificate templates can be configured and mapped against copyrights.
-    -   5 custom labels and values e.g. address of lawyers; square logo url link and show and hide copyright information
+    -   5 custom labels and values e.g. address of lawyers
+    -   square logo url link
+    -   show and hide copyright information
     
 ### Fixed
 -   Certificate persistency to avoid extra database calls.
