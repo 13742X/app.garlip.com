@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
-## [0.1.5] - 2025-07-21 - API test area
+## [0.1.5] - 2025-07-21 - Certificates
 
 This release allows users to configure the certificates.
 
