@@ -7,6 +7,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
+## [0.1.5] - 2025-07-21 - API test area
+
+This release allows users to configure the certificates.
+
+### Added
+-   **Public Link:** Certificates can be viewed publically by short url.
+-    **Template:** Certificate templates can be configured and mapped against copyrights.
+-    
+### Fixed
+-   Certificate persistency to avoid extra database calls.
 
 ## [0.1.4] - 2025-07-19 - API test area
 
