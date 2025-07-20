@@ -20,7 +20,7 @@ This release allows users to configure the certificates.
     -   show and hide copyright information
     
 ### Fixed
--   Certificate persistency to avoid extra database calls.
+-   Decoupling of development, staging and production.
 
 ## [0.1.4] - 2025-07-19 - API test area
 
