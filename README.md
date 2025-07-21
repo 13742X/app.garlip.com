@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 ## [0.1.5] - 2025-07-21 - Certificates & Proving
 
-This release allows users to configure the certificates.
+This release allows users to configure the certificates and reprove copyrights.
 
 ### Added
 -   **Public Link:** Certificates can be viewed publically using a short url. Can be used in a QR code.
