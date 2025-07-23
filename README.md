@@ -9,11 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 ## [0.1.6] - 2025-07-23 - Tokenization
 
-This release issues new users tokens.
+This release adds the functionality to allocate and issue snard tokens to new and existing users.
 
 ### Added
 -   **Tokens:** Tokens added to the account on subscription based on tranching.
--   
+  
 ## [0.1.5] - 2025-07-21 - Certificates & Proving
 
 This release allows users to configure the certificates and reprove copyrights.
