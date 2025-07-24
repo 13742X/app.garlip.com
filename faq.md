@@ -4,7 +4,7 @@
 GARLIP (Guaranteeing Authenticity of Registered Licensed Intellectual Property) is a system designed to protect copyrights using cryptographic hashes and blockchain technology.
 
 ## Is this real?
-This is a beta site. All copyrights are stored locally.
+Absolutely. We are in beta testing with real clients as per our roadmap.
 
 ## When is this going live?
 We plan to go live in **Q4 2025**. We have an MVP and the changelog can be seen on [GitHub](https://github.com/13742X/app.garlip.com/blob/main/README.md).
