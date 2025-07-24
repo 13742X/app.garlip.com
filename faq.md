@@ -36,14 +36,15 @@ To receive your snard tokens, you need a digital wallet that supports the Solana
 **Step 1: Install the Phantom Wallet**
 - **Browser Extension (Chrome, Firefox, Brave, Edge):** Go to the official Phantom download page at [phantom.app/download](https://phantom.app/download) and follow the instructions to add the extension.
 - **Mobile App (iOS/Android):** Open the Apple App Store or Google Play Store, search for "Phantom," and download the official application.
-
+<br>
 **Step 2: Create Your New Wallet**
 - Open the Phantom app or extension you just installed and click the **"Create a New Wallet"** button.
 - You will be shown your **Secret Recovery Phrase** (12 words). This is the master key to your wallet.
 - **IMPORTANT:** Write this phrase down and store it in a secure, offline location. **Never share this phrase with anyone.** If you lose it, you will lose access to your wallet forever.
 - Confirm you have saved the phrase to complete the setup.
-
+<br>
 **Step 3: Find and Use Your Wallet Address**
 - Open your Phantom wallet.
 - Your wallet address is the long string of letters and numbers shown at the top.
 - Click on this address to copy it. This is the address you will provide to receive your snard tokens.
+<br>
