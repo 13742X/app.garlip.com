@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
-## [0.1.6] - 2025-07-23 - Various fixes
+## [0.1.7] - 2025-07-24 - Various fixes
 
 This release enhances the documentation and removes the crypto.js dependancy.
 
@@ -16,6 +16,10 @@ This release enhances the documentation and removes the crypto.js dependancy.
 
 ### Fixed
 -   PWA caching issues through manifest.json changes and tightening up the sw.js.
+-   PWA CSS tweaks.
+
+### Changed
+-   Removed crypto.js for speed and dependancy removal.
 
 ## [0.1.6] - 2025-07-23 - Tokenization
 
