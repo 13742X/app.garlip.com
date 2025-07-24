@@ -7,6 +7,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
+## [0.1.6] - 2025-07-23 - Various fixes
+
+This release enhances the documentation and removes the crypto.js dependancy.
+
+### Added
+-   **Documentation:** Gitbook like documentation for FAQs and Token documentation.
+
+### Fixed
+-   PWA caching issues through manifest.json changes and tightening up the sw.js.
+
 ## [0.1.6] - 2025-07-23 - Tokenization
 
 This release adds the functionality to allocate and issue snard tokens to new and existing users.
