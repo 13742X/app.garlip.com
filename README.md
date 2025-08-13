@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 -   Microsoft SSO redirect loop on failure.
+-   If copyright already exists, the modal messages are the same if either Register button is clicked.
+-   Removed progress status after 3 seconds or if modal opens.
 
 ## [0.1.7] - 2025-07-24 - Various fixes
 
